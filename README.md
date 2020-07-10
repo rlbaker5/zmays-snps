@@ -35,3 +35,5 @@
      - Trimmomatic
      - ScytheZEA Mays SNP Calling Project
 Project started today
+TODO: ask seq center about adapters
+Samples expected from sequencing core

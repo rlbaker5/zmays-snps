@@ -37,3 +37,4 @@
 Project started today
 TODO: ask seq center about adapters
 Samples expected from sequencing core
+added a comment to commit
